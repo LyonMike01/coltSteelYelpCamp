@@ -1,0 +1,25 @@
+
+* {
+margin: 0;
+}
+
+.tradeP {
+    font-size: 21px;
+    font-weight: 200;
+    margin: 10px 0 10px; 
+}
+
+.trade {
+    height: 50px;
+    text-align: center;
+    box-sizing: border-box;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    background-color: #eee;
+    padding: 40px auto 0;
+    border: 1px solid transparent;
+    border-color: #d0d0d0;
+    border-radius: 4px; 
+}
